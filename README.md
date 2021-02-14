@@ -1,6 +1,6 @@
 ## To Detect Persons in Image ive used HOG(Histograms of Oriented Gradients) person detector using OpenCV.
 
-## How it works:
+# How it works:
 
 1.Detect key point
 
@@ -10,7 +10,7 @@
 
 4.This gives histogram that we can compare between frames.
 
-## Compute net average IOU:
+# Compute net average IOU:
 
 1.Ive used labelmg to generate ground truth.
 
